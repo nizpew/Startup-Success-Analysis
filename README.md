@@ -1,6 +1,7 @@
 # Demos
+Top 10 Setores com maior sucesso para empresas pequenas, em ordem crescente
 
-![image](https://github.com/user-attachments/assets/034877f7-8e2a-4007-9cb5-2dcbd7b2b8f6)
+![image](https://github.com/user-attachments/assets/56a8bbec-dcb5-45b0-83e0-c970bf43d7b2)
 
 
 
