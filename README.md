@@ -1,7 +1,11 @@
 # Startup-Success-Analysis
 
 
-Pergunta inicial: quais sao as conexoes que a gente pode fazer entre essas variaveis, pra tirar inseights, quanto a startups de tecnologia, pra saber qual a melhor area e jeito de entrar no mercado?
+Pergunta inicial: quais sao as conexoes que a gente pode fazer entre essas variaveis, pra tirar insights, quanto a startups de tecnologia, pra saber qual a melhor area e jeito de entrar no mercado?
+
+Proposta: faz uma analise, em qual setor, empresas com poucas pessoas (menos de 3), dao mais certo.
+
+e depois uma lsita de quais ahabilidades sao maiores influencias, diretamente proporcional, ao sucesso das empresas. isso apenas nas empresas de tecnologia, de qualquer tamanho e pessoal.
 
 
 
@@ -13,9 +17,7 @@ Pergunta inicial: quais sao as conexoes que a gente pode fazer entre essas varia
 
 
 
-
-
-Dicionario:
+#  Dicionario
 1. **Company_Name**: Nome da empresa. Indica o nome da startup ou empresa que está sendo analisada.
 
 2. **Dependent-Company Status**: Status da empresa em relação à sua dependência ou relacionamento com outras empresas. Pode indicar se é uma subsidiária ou tem algum tipo de parceria com outras entidades.
