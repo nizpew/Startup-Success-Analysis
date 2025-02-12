@@ -1,3 +1,20 @@
+# Demos
+
+![image](https://github.com/user-attachments/assets/034877f7-8e2a-4007-9cb5-2dcbd7b2b8f6)
+
+
+
+
+graph:
+
+![image](https://github.com/user-attachments/assets/1273eb5e-3bcc-4cf5-8fec-f0017b48c1f8)
+
+
+
+
+
+
+
 # Startup-Success-Analysis
 
 
