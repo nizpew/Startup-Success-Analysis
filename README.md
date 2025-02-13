@@ -77,3 +77,6 @@ e depois uma lsita de quais ahabilidades sao maiores influencias, diretamente pr
 20. **Renown score**: Pontuação de **Renome** ou prestígio da empresa, possivelmente uma medida da reputação da empresa no mercado ou na indústria.
 
 ---
+
+
+fonte do dataset usado: https://github.com/daniel7an/Startup-Success-Analysis/tree/main
